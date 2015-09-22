@@ -2,64 +2,64 @@
 === ZenGL 0.3.12 (2013.08.12) ===
 =================================
 [00000001ms] Begin
-[00000004ms] Current mode: 1920 x 1080
-[00000686ms] Direct3DCreate9
-[00000688ms] D3D9_RENDERER: NVIDIA GeForce GTX 860M  
-[00000688ms] D3D9_AUTOGENMIPMAP: TRUE
-[00000688ms] D3D9_MAX_TEXTURE_SIZE: 16384
-[00000688ms] D3D9_TEXTURE_FILTER_ANISOTROPIC: TRUE
-[00000688ms] D3D9_MAX_TEXTURE_ANISOTROPY: 16
-[00000688ms] D3DPMISCCAPS_SEPARATEALPHABLEND: TRUE
-[00000838ms] D3DCREATE_HARDWARE_VERTEXPROCESSING
-[00000864ms] Ogg: Initialized
-[00000865ms] DirectSound: loading DSound.dll
-[00000874ms] DirectSound: sound system initialized
-[00000880ms] Texture loaded: "OpenSans_Regular_10.png"
-[00000883ms] Texture loaded: "OpenSans_Regular_12.png"
-[00000894ms] Texture loaded: "OpenSans_Regular_16.png"
-[00000904ms] Texture loaded: "OpenSans_Regular_20.png"
-[00000915ms] Texture loaded: "OpenSans_Regular_22.png"
-[00000924ms] Texture loaded: "OpenSans_Regular_58_P0.png"
-[00000934ms] Texture loaded: "OpenSans_Regular_58_P1.png"
-[00000943ms] Texture loaded: "OpenSans_Regular_58_P2.png"
-[00000951ms] Texture loaded: "OpenSans_Regular_58_P3.png"
-[00000955ms] Texture loaded: "OpenSans_Extra.png"
-[00000955ms] Texture loaded: "tlRect.png"
-[00000973ms] Texture loaded: "Label.png"
-[00000973ms] Texture loaded: "Border_4px.png"
-[00000973ms] Texture loaded: "Border_1px.png"
-[00000974ms] Texture loaded: "Icons_Buttons.png"
-[00000976ms] Texture loaded: "Icons_Cursor.png"
-[00000977ms] Texture loaded: "Icons_Tools.png"
-[00000984ms] Texture loaded: "Icons_48px.png"
-[00000984ms] Texture loaded: "PointMove.png"
-[00000993ms] Texture loaded: "tlPipeline.png"
-[00000995ms] Texture loaded: "tlPump.png"
-[00000996ms] Texture loaded: "tlValve.png"
-[00000998ms] Texture loaded: "tlTank_1.png"
-[00001001ms] Texture loaded: "tlTank_2.png"
-[00001003ms] Texture loaded: "tlTank_3.png"
-[00001005ms] Texture loaded: "tlTank_4.png"
-[00001005ms] Texture loaded: "HandMode.png"
-[00001007ms] Texture loaded: "Limits.png"
-[00001007ms] Texture loaded: "Icon_Error.png"
-[00001007ms] Texture loaded: "Points.png"
-[00001011ms] Texture loaded: "Pictures\Без текстуры.png"
-[00007323ms] Загрузка проекта
-[00007324ms] Очистка выполнена успешно
-[00007325ms] Данные проекта загружены
-[00007325ms] OPC-поток создан
-[00007388ms] Texture loaded: "Pictures\ips_state_bg.png"
-[00007559ms] Данные страниц получены
-[00007561ms] Данные трендов получены
-[00007562ms] Данные сообщений получены
-[00007573ms] Sound loaded: "Libraries\Sounds\Sound_2.ogg"
-[00007582ms] Sound loaded: "Libraries\Sounds\Sound_6.ogg"
-[00007582ms] Проект успешно загружен!
-[00010073ms] Average FPS: 59
-[00010074ms] Timers to free: 2
-[00010075ms] Fonts to free: 7
-[00010077ms] Textures to free: 23
-[00010079ms] Sounds to free: 2
-[00010107ms] DirectSound: sound system finalized
-[00010216ms] End
+[00000002ms] Current mode: 1366 x 768
+[00000027ms] Direct3DCreate9
+[00000028ms] D3D9_RENDERER: Intel(R) HD Graphics
+[00000028ms] D3D9_AUTOGENMIPMAP: TRUE
+[00000028ms] D3D9_MAX_TEXTURE_SIZE: 8192
+[00000028ms] D3D9_TEXTURE_FILTER_ANISOTROPIC: TRUE
+[00000028ms] D3D9_MAX_TEXTURE_ANISOTROPY: 16
+[00000028ms] D3DPMISCCAPS_SEPARATEALPHABLEND: TRUE
+[00000112ms] D3DCREATE_HARDWARE_VERTEXPROCESSING
+[00000252ms] Ogg: Initialized
+[00000252ms] DirectSound: loading DSound.dll
+[00000263ms] DirectSound: sound system initialized
+[00000266ms] Texture loaded: "OpenSans_Regular_10.png"
+[00000269ms] Texture loaded: "OpenSans_Regular_12.png"
+[00000279ms] Texture loaded: "OpenSans_Regular_16.png"
+[00000288ms] Texture loaded: "OpenSans_Regular_20.png"
+[00000297ms] Texture loaded: "OpenSans_Regular_22.png"
+[00000305ms] Texture loaded: "OpenSans_Regular_58_P0.png"
+[00000313ms] Texture loaded: "OpenSans_Regular_58_P1.png"
+[00000321ms] Texture loaded: "OpenSans_Regular_58_P2.png"
+[00000328ms] Texture loaded: "OpenSans_Regular_58_P3.png"
+[00000331ms] Texture loaded: "OpenSans_Extra.png"
+[00000332ms] Texture loaded: "tlRect.png"
+[00000353ms] Texture loaded: "Label.png"
+[00000353ms] Texture loaded: "Border_4px.png"
+[00000353ms] Texture loaded: "Border_1px.png"
+[00000353ms] Texture loaded: "Icons_Buttons.png"
+[00000355ms] Texture loaded: "Icons_Cursor.png"
+[00000356ms] Texture loaded: "Icons_Tools.png"
+[00000362ms] Texture loaded: "Icons_48px.png"
+[00000362ms] Texture loaded: "PointMove.png"
+[00000371ms] Texture loaded: "tlPipeline.png"
+[00000373ms] Texture loaded: "tlPump.png"
+[00000374ms] Texture loaded: "tlValve.png"
+[00000376ms] Texture loaded: "tlTank_1.png"
+[00000378ms] Texture loaded: "tlTank_2.png"
+[00000381ms] Texture loaded: "tlTank_3.png"
+[00000383ms] Texture loaded: "tlTank_4.png"
+[00000383ms] Texture loaded: "HandMode.png"
+[00000384ms] Texture loaded: "Limits.png"
+[00000384ms] Texture loaded: "Icon_Error.png"
+[00000384ms] Texture loaded: "Points.png"
+[00000386ms] Texture loaded: "Pictures\Без текстуры.png"
+[00013397ms] Загрузка проекта
+[00013398ms] Очистка выполнена успешно
+[00013398ms] Данные проекта загружены
+[00013398ms] OPC-поток создан
+[00013453ms] Texture loaded: "Pictures\ips_state_bg.png"
+[00013548ms] Данные страниц получены
+[00013549ms] Данные трендов получены
+[00013550ms] Данные сообщений получены
+[00013559ms] Sound loaded: "Libraries\Sounds\Sound_2.ogg"
+[00013567ms] Sound loaded: "Libraries\Sounds\Sound_6.ogg"
+[00013567ms] Проект успешно загружен!
+[00221520ms] Average FPS: 60
+[00221521ms] Timers to free: 2
+[00221521ms] Fonts to free: 7
+[00221541ms] Textures to free: 23
+[00221560ms] Sounds to free: 2
+[00221586ms] DirectSound: sound system finalized
+[00221657ms] End
